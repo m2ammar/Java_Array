@@ -21,6 +21,7 @@ public class ArrayBLab4 {
              if(num[i] > max){
                 max = num[i];
             }
+
             if(num[i] < min){
                 min = num[i];
             }
